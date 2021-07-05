@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+	font-family: 'Nunito', regular;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:link {
+	color: #00C853;
+}
+
+a:visited {
+	color: #00C853;
+}
+
+a:hover {
+	color: #00C853;
+}
+
+a:active {
+	color: #00C853;
+}
+
+@media only screen and (min-width: 600px) {
+	h1, h2, h3 {
+		width: 100%;
+		margin: auto;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	
+	h1 {
+		font-size: 32px;
+	}
+	
+	h2 {
+		font-size: 24px;
+	}
+	
+	h3 {
+		font-size: 20px;
+	}
+	
+	.brand_quote {
+		margin: auto;
+		width: 100%;
+		font-size: 18px;
+		text-align: center;
+	}
+
+	.social_block {
+		width: 148px;
+		margin: auto;
+		margin-top: 25px;
+	}
+
+	.social_link {
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+	
+	.app_title {
+		margin-top: 60px;
+	}
+
+	.app_version {
+		font-size: 16px;
+		width: 100%;
+		margin: auto;
+		margin-top: -15px;
+		text-align: center;
+	}
+	
+	.app_picture {
+		width: 336px;
+		display: block;
+		margin: auto;
+		margin-top: 25px;
+	}
+	
+	.app_description {
+		width: 310px;
+		margin: auto;
+		margin-top: 25px;
+		margin-bottom: 25px;
+	}
+	
+	.description_thesis {
+		display: block;
+		margin: auto;
+		font-size: 20px;
+		margin-top: 10px;
+	}
+	
+	.app_legal {
+		font-size: 18px;
+		width: 100%;
+		margin: auto;
+		text-align: center;
+	}
+	
+	.app_download {
+		margin: auto;
+		width: 306px;
+		margin-top: 30px;
+		margin-bottom: 25px;
+	}
+
+	.badge {
+		display: inline;
+		height: 50px;
+	}
+	
+	.single_badge {
+		display: block;
+		width: 150px;
+		margin: auto;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	h1, h2, h3 {
+		margin: auto;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		width: 100%;
+		text-align: center;
+	}
+	
+	h1 {
+		font-size: 28px;
+	}
+	
+	h2 {
+		font-size: 22px;
+	}
+	
+	h3 {
+		font-size: 18px;
+	}
+	
+	.brand_quote {
+		margin: auto;
+		width: 100%;
+		font-size: 16px;
+		text-align: center;
+	}
+
+	.social_block {
+		width: 148px;
+		margin: auto;
+		margin-top: 15px;
+	}
+
+	.social_link {
+		margin-left: 5px;
+		margin-right: 5px;
+	}
+	
+	.app_title {
+		margin-top: 30px;
+	}
+
+	.app_version {
+		font-size: 16px;
+		width: 100%;
+		margin: auto;
+		margin-top: -5px;
+		text-align: center;
+	}
+
+	.app_picture {
+		width: 80%;
+		display: block;
+		margin: auto;
+		margin-top: 15px;
+	}
+	
+	.app_description {
+		width: 248px;
+		margin: auto;
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+	
+	.description_thesis {
+		display: block;
+		margin: auto;
+		margin-top: 5px;
+		font-size: 16px;
+	}
+	
+	.app_legal {
+		font-size: 14px;
+		width: 100%;
+		margin: auto;
+		text-align: center;
+	}
+	
+	.app_download {
+		margin: auto;
+		width: 246px;
+		margin-top: 20px;
+		margin-bottom: 15px;
+	}
+
+	.badge {
+		display: inline;
+		height: 40px;
+	}
+	
+	.single_badge {
+		display: block;
+		width: 120px;
+		margin: auto;
+	}
+}
