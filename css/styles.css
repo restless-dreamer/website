@@ -152,7 +152,7 @@ a:active {
 	}
 
 	.social_block {
-		width: 106px;
+		width: *;
 		margin: auto;
 		margin-top: 10px;
 	}
