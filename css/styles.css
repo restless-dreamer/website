@@ -76,11 +76,17 @@ a:active {
 		text-align: center;
 	}
 	
-	.app_picture {
+	.app_main_photo {
 		width: 336px;
 		display: block;
 		margin: auto;
 		margin-top: 25px;
+	}
+	
+	.app_additional_photo {
+		width: 336px;
+		display: block;
+		margin: auto;
 	}
 	
 	.app_description {
@@ -178,11 +184,17 @@ a:active {
 		text-align: center;
 	}
 
-	.app_picture {
+	.app_main_photo {
 		width: 80%;
 		display: block;
 		margin: auto;
 		margin-top: 15px;
+	}
+	
+	.app_additional_photo {
+		width: 80%;
+		display: block;
+		margin: auto;
 	}
 	
 	.app_description {
