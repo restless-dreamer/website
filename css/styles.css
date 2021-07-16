@@ -87,6 +87,7 @@ a:active {
 		width: 336px;
 		display: block;
 		margin: auto;
+		margin-top: 4px;
 	}
 	
 	.app_description {
@@ -195,6 +196,7 @@ a:active {
 		width: 80%;
 		display: block;
 		margin: auto;
+		margin-top: 2px;
 	}
 	
 	.app_description {
